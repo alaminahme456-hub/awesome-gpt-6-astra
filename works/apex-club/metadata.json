@@ -3,7 +3,7 @@
   "title": "APEX CLUB — Bay Kart Grand Prix",
   "created_at": "2026-09-07",
   "category": "platformers-racing",
-  "description": "A three-lap browser kart racer with local 4v4 AI teams, six karts and charged corner-exit boosts.",
+  "description": "A three-lap browser kart racer with local 4v4 AI teams, seven karts and charged corner-exit boosts.",
   "entry": "index.html",
   "attribution_status": "Exact GPT-6 Astra attribution pending creator confirmation; draft submission.",
   "workflow": "Iterative Codex development guided by creator requests and screenshot feedback; not a one-shot benchmark.",

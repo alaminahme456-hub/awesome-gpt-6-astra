@@ -38,8 +38,8 @@ Open http://localhost:8080. Three.js 0.179.1 is included locally under `vendor/t
 - Shift (either side): consume one nitro unit for a 2.1-second boost. Up to 3 units can be stored.
 - Q: EMP affects nearby opponents, excluding teammates in team mode.
 - H: pause/help; R: restart the entire race including AI and countdown.
-- Choose from six karts before racing; the lobby previews the body kit and displays speed, acceleration, handling and drift charge rate.
-- COMET: agile; APEX: balanced; BOLT: top speed; SLIDE: drift specialist (1.4× APEX charge rate); TITAN: heavy off-road styling with reduced collision displacement; VINTAGE: fastest acceleration with a lower top speed.
+- Choose from seven karts before racing; the lobby previews the body kit and displays speed, acceleration, handling and drift charge rate.
+- COMET: agile; APEX: balanced; BOLT: top speed; SLIDE: drift specialist (1.4× APEX charge rate); TITAN: heavy off-road styling with reduced collision displacement; VINTAGE: fastest acceleration with a lower top speed; NOVA: sharp turn-in with quick drift charge (1.22× APEX).
 - Team races apply team paint while retaining each kart’s shape and handling. AI racers also use the expanded garage.
 
 ## Visuals

@@ -6,4 +6,5 @@ export const craftDefs = [
   {name:'SLIDE',title:'Drift specialist',tag:'Drift expert',description:'Low body kit and a double rear wing. Drift charges 40% faster than APEX.',style:'drift',scale:[1.05,.94,1.07],accel:220,max:535,turn:1.16,drift:1.4,armor:60,mass:.95,color:0xff87a7},
   {name:'TITAN',title:'Armored buggy',tag:'Heavy machinery',description:'Wide-track armored buggy. Deep-tread tires, independent suspension, open intake stacks and a reinforced cockpit.',style:'rally',scale:[1.08,1.02,1],accel:195,max:550,turn:.94,drift:1.05,armor:110,mass:1.65,color:0x29bfc5},
   {name:'VINTAGE',title:'Classic',tag:'Quick launch',description:'Round headlights and a chrome grille. Quick acceleration with a lower top speed.',style:'retro',scale:[.94,1,1.08],accel:265,max:510,turn:1.1,drift:1.12,armor:55,mass:.9,color:0x99cbd4},
+  {name:'NOVA',title:'Night-shift',tag:'Balanced surge',description:'Night-shift spec with sharp turn-in and quick drift charge. A confident step up from APEX.',style:'sport',scale:[1.02,.97,1.03],accel:240,max:555,turn:1.05,drift:1.22,armor:68,mass:.95,color:0xa8ff3e},
 ];
